@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1752161387 source:d:\! kuliah\semester 4\algoritma strategis\tugas besar pra uas\tugas_besar\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<iomanip>
+	<limits>
+
